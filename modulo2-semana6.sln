@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modulo2-semana6-api", "modulo2-semana6-api\modulo2-semana6-api.csproj", "{6A9A4919-7209-4628-A854-346A6C0A27A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modulo2-semana6-tests", "modulo2-semana6-tests\modulo2-semana6-tests.csproj", "{E570C30B-350A-4B35-8AB4-F87B9D1EF211}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6A9A4919-7209-4628-A854-346A6C0A27A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A9A4919-7209-4628-A854-346A6C0A27A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A9A4919-7209-4628-A854-346A6C0A27A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E570C30B-350A-4B35-8AB4-F87B9D1EF211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E570C30B-350A-4B35-8AB4-F87B9D1EF211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E570C30B-350A-4B35-8AB4-F87B9D1EF211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E570C30B-350A-4B35-8AB4-F87B9D1EF211}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
