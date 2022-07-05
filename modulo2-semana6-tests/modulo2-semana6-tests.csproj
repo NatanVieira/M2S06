@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\modulo2-semana6-api\modulo2-semana6-api.csproj" />
+  </ItemGroup>
+
 </Project>
