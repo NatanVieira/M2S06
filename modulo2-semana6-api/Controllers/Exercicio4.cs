@@ -8,8 +8,17 @@ public class Exercicio4 : ControllerBase {
 
     [HttpGet("{email}")]
     public string Get(string email){
-        if(Regex.IsMatch(email,@"^[^@\s]+@[^@\s]+\.[^@\s]+$"))
+        var minuto = DateTime.Now.Minute;
+        if(minuto <= 30){
+            validaEmail(email);
             return "E-mail válido";
-        return "E-mail inválido";
+        }
+        else
+            throw new Exception("Erro na requisição o minuto está acima de 30");
+    }
+    
+    private static void validaEmail(string email){
+        if(!Regex.IsMatch(email,@"^[\w-.]+@([\w-]+.)+[\w-]{2,4}$"))
+            throw new Exception("E-mail inválido");
     }
 }
