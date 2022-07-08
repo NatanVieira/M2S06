@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7+lbNjgp6BdBTjn2jeceyjnBUgiy3BmAUVuGHhziNWBCxzS9AdeREQNFCS/hqn4/yIVPBT3bPge4mWR6MJybSQ==",
+  "dgSpecHash": "sb8ggJWz8Kjz1/5Oi6vKywpAoO0UVwk8Zuj90xNseH60qEBpn3fcb6KJBJy17ukH46okrBfVDV9ubPW+t7hzhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-tests\\modulo2-semana6-tests.csproj",
+  "projectFilePath": "c:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-tests\\modulo2-semana6-tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natanael.vieira\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\natanael.vieira\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\6.0.6\\microsoft.aspnetcore.mvc.testing.6.0.6.nupkg.sha512",

@@ -24,4 +24,4 @@ C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-api\obj\Debug\
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-api\obj\Debug\net6.0\modulo2-semana6-api.pdb
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-api\obj\Debug\net6.0\modulo2-semana6-api.genruntimeconfig.cache
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-api\obj\Debug\net6.0\ref\modulo2-semana6-api.dll
-C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-api\bin\Debug\net6.0\ref\modulo2-semana6-api.dll
+c:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-api\obj\Debug\net6.0\refint\modulo2-semana6-api.dll

@@ -5,7 +5,12 @@
       "ProjectGuid": "6a9a4919-7209-4628-a854-346a6c0a27a1",
       "DisplayName": "modulo2-semana6-api",
       "ColorIndex": 0
+    },
+    "e570c30b-350a-4b35-8ab4-f87b9d1ef211": {
+      "ProjectGuid": "e570c30b-350a-4b35-8ab4-f87b9d1ef211",
+      "DisplayName": "modulo2-semana6-tests",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

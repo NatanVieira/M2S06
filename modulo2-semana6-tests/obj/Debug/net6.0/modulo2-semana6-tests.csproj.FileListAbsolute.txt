@@ -109,7 +109,6 @@ c:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debu
 c:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debug\net6.0\modulo2-semana6-api.dll
 c:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debug\net6.0\modulo2-semana6-api.pdb
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debug\net6.0\MvcTestingAppManifest.json
-C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debug\net6.0\ref\modulo2-semana6-tests.dll
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
@@ -406,3 +405,4 @@ C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debu
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\obj\Debug\net6.0\MvcTestingAppManifest.json
+c:\Users\natanael.vieira\Desktop\DIH\6Semana\M2S6\modulo2-semana6-tests\obj\Debug\net6.0\refint\modulo2-semana6-tests.dll
