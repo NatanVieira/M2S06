@@ -59,5 +59,20 @@
             Assert.NotNull(responseApi);
             Assert.Equal("E-mail inválido",responseApi);
         }
+
+        [Theory]
+        [InlineData(1,1)]
+        [InlineData(5,4)]
+        [InlineData(5,3)]
+        public async Task Teste_Exercicio_8_Soma_Sucesso(int num1, int num2){
+            var resultado = await client.GetAsync($"/Exercicio8/{num1}/{num2}");
+
+            Assert.NotNull(resultado);
+
+            var responseApi = await resultado.Content.ReadAsStringAsync();
+
+            Assert.NotNull(responseApi);
+            Assert.Equal((num1 + num2).ToString(), responseApi);
+        }
     }
 }
