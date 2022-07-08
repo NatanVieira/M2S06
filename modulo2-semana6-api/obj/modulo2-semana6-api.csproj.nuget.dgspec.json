@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj": {}
+    "C:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj": {
+    "C:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
+        "projectUniqueName": "C:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
         "projectName": "modulo2-semana6-api",
-        "projectPath": "c:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
+        "projectPath": "C:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
         "packagesPath": "C:\\Users\\natanael.vieira\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\obj\\",
+        "outputPath": "C:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
