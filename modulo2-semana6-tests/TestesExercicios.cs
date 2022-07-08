@@ -28,5 +28,20 @@
             Assert.Equal("false",tipo);
 
         }
+
+        [Theory]
+        [InlineData("natanael@email.com")]
+        [InlineData("email@email.com")]
+        [InlineData("teste.com")]
+        public async Task Teste_Exercicio_6_Validacao_Email_Sucesso(string email){
+            
+            var resultado = await client.GetAsync($"/Exercicio4/{email}");
+            Assert.NotNull(resultado);
+
+            var responseApi = await resultado.Content.ReadAsStringAsync();
+
+            Assert.NotNull(responseApi);
+            Assert.Equal("E-mail válido",responseApi);
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYxio6+sk3JBg9UJbXFFwJjTnYqOzHL8KUdTJ8seHr9hRrYdtzsv97G2YYMrcCDFErbEY88+bX41CAbXoXlKFQ==",
+  "dgSpecHash": "s+tX18o8jBTtRPts5PcNa4aDB1hH7Jte74YnIRymACsMYLueImiqnpIhe4+L4PBGb3duhTWHtt4tR55WSKjvgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
+  "projectFilePath": "c:\\Users\\natanael.vieira\\Desktop\\DIH\\6Semana\\M2S6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natanael.vieira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\natanael.vieira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
