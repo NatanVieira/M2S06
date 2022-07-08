@@ -74,5 +74,21 @@
             Assert.NotNull(responseApi);
             Assert.Equal((num1 + num2).ToString(), responseApi);
         }
+
+        [Theory]
+        [InlineData(10,1)]
+        [InlineData(50,4)]
+        [InlineData(56,3)]
+        public async Task Teste_Exercicio_8_Soma_Erro(int num1, int num2){
+            var resultado = await client.GetAsync($"/Exercicio8/{num1}/{num2}");
+
+            Assert.NotNull(resultado);
+
+            var responseApi = await resultado.Content.ReadAsStringAsync();
+
+            Assert.NotNull(responseApi);
+            string soma = (num1 + num2).ToString();
+            Assert.NotEqual(soma,responseApi);
+        }
     }
 }
